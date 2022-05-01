@@ -1,0 +1,3 @@
+This is repo for the fellows who are targeting for campus placements  2022.
+The repo contains a list of most asked questions that we need to focus in order to improve our coding skills ...
+If you are interested in sharing some questions please share your knowledge 
